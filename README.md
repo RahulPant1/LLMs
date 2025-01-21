@@ -1,2 +1,2 @@
 # LLMs
-My LLM Learnings ongoing
+Apps and Basics of using LLMs for building things...
