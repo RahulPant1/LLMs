@@ -71,5 +71,5 @@ You can modify the following parameters in the UI:
 MIT License
 
 ## Contributors
-[Your Name] - [Your Email]
+Rahul
 
